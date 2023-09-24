@@ -6,3 +6,4 @@
 - Download Python make sure you have the extension added in your VSC; check your python version using "python --version"
 - Install django : run the command "pip install django" in your VSC terminal
 ## To run the project, simply type this command in your VSC terminal : python manage.py runserver
+- Click on the link that appears in the terminal : http://127.0.0.1:8000/
