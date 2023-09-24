@@ -1,5 +1,5 @@
 # CSR-Project
-# Download the project on your local computer
+## Download the project on your local computer
 # Install Visual Studio Code
 # Open the project in Visual Studio Code
 # Make sure you have all the necessary libraries to run the project :
